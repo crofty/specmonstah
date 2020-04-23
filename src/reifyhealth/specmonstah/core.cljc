@@ -1,4 +1,6 @@
 (ns reifyhealth.specmonstah.core
+  ^{:clojure.tools.namespace.repl/load false
+    :clojure.tools.namespace.repl/unload false}
   (:require [loom.alg :as la]
             [loom.attr :as lat]
             [loom.graph :as lg]
